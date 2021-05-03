@@ -9,6 +9,9 @@ public class Student {
     System.out.println("This is studentMethod1");
 
   }
+  public void sfas()
+  {
+  }
   public void stddd()
   {
   }
