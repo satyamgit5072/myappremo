@@ -1,6 +1,8 @@
 package org.cap.model;
 
 public class Student {
+  
+  int a=3;
 
   public void StudentMethod1()
   {
