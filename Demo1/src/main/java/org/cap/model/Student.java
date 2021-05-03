@@ -1,9 +1,11 @@
 package org.cap.model;
 
 public class Student {
-  public void Student2()
+
+  public void StudentMethod1()
   {
-    System.out.println("This is student2 method");
+    System.out.println("This is studentMethod1");
+
   }
 
 }
