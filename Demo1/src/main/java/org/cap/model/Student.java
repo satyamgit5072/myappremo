@@ -21,5 +21,8 @@ public class Student {
   }
   
   int cd=33;
+  public void feadt()
+  {
+  }
 
 }
