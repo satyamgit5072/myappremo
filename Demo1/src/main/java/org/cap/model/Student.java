@@ -10,5 +10,8 @@ public class Student {
   public void stddd()
   {
   }
+  public void dfds()
+  {
+  }
 
 }
