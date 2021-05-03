@@ -26,5 +26,10 @@ public class Student {
   public void feadt()
   {
   }
+  
+  public void dddd()
+  {
+  
+  }
 
 }
