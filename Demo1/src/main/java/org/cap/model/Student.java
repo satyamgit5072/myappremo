@@ -3,6 +3,7 @@ package org.cap.model;
 public class Student {
   
   int a=3;
+  int b =2;
 
   public void StudentMethod1()
   {
