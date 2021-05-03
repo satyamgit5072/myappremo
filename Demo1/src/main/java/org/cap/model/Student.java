@@ -18,7 +18,7 @@ public class Student {
   public void sfas()
   {
   }
-
+  int cadfa=3;
   public void stddd()
   {
   }
