@@ -18,7 +18,12 @@ public class Student {
   public void sfas()
   {
   }
-  int cadfa=3;
+  
+  public void aasd()
+  {
+    
+  }
+
   public void stddd()
   {
   }
@@ -34,6 +39,10 @@ public class Student {
   public void dddd()
   {
   
+  }
+  
+  public void laset()
+  {
   }
 
 }
