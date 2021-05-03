@@ -14,6 +14,11 @@ public class Student {
   public void sfas()
   {
   }
+  
+  public void aasd()
+  {
+    
+  }
 
   public void stddd()
   {
