@@ -44,5 +44,9 @@ public class Student {
   public void laset()
   {
   }
+  
+  public void laset2()
+  {
+  }
 
 }
