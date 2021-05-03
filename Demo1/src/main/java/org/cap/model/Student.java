@@ -10,7 +10,11 @@ public class Student {
     System.out.println("This is studentMethod1");
 
   }
-  int cas=4;
+
+  public void sfas()
+  {
+  }
+
   public void stddd()
   {
   }
