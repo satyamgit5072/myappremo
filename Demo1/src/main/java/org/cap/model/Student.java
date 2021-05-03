@@ -40,5 +40,9 @@ public class Student {
   {
   
   }
+  
+  public void laset()
+  {
+  }
 
 }
