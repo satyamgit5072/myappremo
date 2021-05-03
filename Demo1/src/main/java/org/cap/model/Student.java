@@ -16,5 +16,7 @@ public class Student {
   public void effd()
   {
   }
+  
+  int cd=33;
 
 }
