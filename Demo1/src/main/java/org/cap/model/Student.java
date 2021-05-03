@@ -41,6 +41,8 @@ public class Student {
   
   }
   
+  int ccsdga=23;
+  
   public void laset()
   {
   }
